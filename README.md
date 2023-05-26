@@ -1,1 +1,1 @@
-# CMU_Course
+# CMU_Course object detection
