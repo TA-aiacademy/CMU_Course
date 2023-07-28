@@ -1,0 +1,66 @@
+[
+  {
+    "csv": "\/data\/upload\/3\/5fa299bc-test_1.csv",
+    "id": 1,
+    "label": [
+      {
+        "start": 5,
+        "end": 8,
+        "instant": false,
+        "timeserieslabels": [
+          "p"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "instant": false,
+        "timeserieslabels": [
+          "N"
+        ]
+      }
+    ],
+    "number": [
+      {
+        "number": 500
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2023-06-28T08:23:07.866848Z",
+    "updated_at": "2023-06-28T08:40:41.917518Z",
+    "lead_time": 930.202
+  },
+  {
+    "csv": "\/data\/upload\/3\/d64202a1-test_1.csv",
+    "id": 2,
+    "label": [
+      {
+        "start": 4,
+        "end": 9,
+        "instant": false,
+        "timeserieslabels": [
+          "p"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "instant": false,
+        "timeserieslabels": [
+          "N"
+        ]
+      }
+    ],
+    "number": [
+      {
+        "number": 500
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2023-06-28T08:23:17.639624Z",
+    "updated_at": "2023-06-28T08:23:17.639624Z",
+    "lead_time": 8.127
+  }
+]
