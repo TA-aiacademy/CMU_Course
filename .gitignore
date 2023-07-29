@@ -128,3 +128,4 @@ tryout_notebooks
 *.tar.gz
 *checkpoint*
 *datas
+*_example.csv
