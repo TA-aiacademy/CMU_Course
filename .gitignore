@@ -116,3 +116,16 @@ data/
 *mlruns/
 *resutls/
 tryout_notebooks
+*history/
+*fusionlab/
+*fuisonlab.*
+*.zip
+*dataset
+*.pt
+*.bin
+*.png
+*.jpg
+*.tar.gz
+*checkpoint*
+*datas
+*_example.csv
