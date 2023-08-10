@@ -1,0 +1,5 @@
+## Open Course Notebooks in Colab
+### Part 2 Image classification with high-level API
+2. 🔥Medical image example with GradCAM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/CMU_Course/blob/image_classification/03_Medical_Image/Part_2/2_Medical_image_example_with_GradCAM.ipynb)
+3. 🔥Medical image example with custom dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/CMU_Course/blob/image_classification/03_Medical_Image/Part_2/3_Medical_image_example_with_custom_dataset.ipynb)
+4. 🔥Medical image exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/CMU_Course/blob/image_classification/03_Medical_Image/Part_2/4_Medical_image_exercise.ipynb) Answer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/CMU_Course/blob/image_classification/03_Medical_Image/Part_2/4_Medical_image_exercise_answer.ipynb)
